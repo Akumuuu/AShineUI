@@ -2,7 +2,7 @@
   "name": "ashine-ui-theme",
   "displayName": "AShine UI",
   "publisher": "akumuuu",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.80.0"
