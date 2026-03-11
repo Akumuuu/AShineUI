@@ -1,15 +1,28 @@
 {
   "name": "ashine-ui-theme",
   "displayName": "AShine UI",
+  "description": "Minimal dark UI theme for Visual Studio Code with balanced contrast and comfortable colors.",
   "publisher": "morgheas",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "icon.png",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ui theme",
+    "minimal",
+    "vscode theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akumuuu/AShineUI"
+  },
   "contributes": {
     "themes": [
       {
@@ -17,10 +30,6 @@
         "uiTheme": "vs-dark",
         "path": "./themes/a-shine-ui-color-theme.json"
       }
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Akumuuu/AShineUI"
-    }
+    ]
   }
 }
