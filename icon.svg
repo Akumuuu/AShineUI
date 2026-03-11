@@ -1,0 +1,15 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- background -->
+  <rect width="256" height="256" rx="48" fill="#1d1d1d"></rect>
+
+  <!-- outer ring -->
+  <circle cx="128" cy="128" r="72" stroke="#e2c160" stroke-width="10" fill="none"></circle>
+
+  <!-- inner diamond -->
+  <polygon points="128,70 186,128 128,186 70,128" fill="#bd93f9"></polygon>
+
+  <!-- center highlight -->
+  <circle cx="128" cy="128" r="18" fill="#e0e0e0"></circle>
+
+</svg>
