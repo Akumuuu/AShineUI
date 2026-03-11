@@ -1,0 +1,21 @@
+{
+  "name": "ashine-ui-theme",
+  "displayName": "AShine UI",
+  "publisher": "akumuuu",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AShineUI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/a-shine-ui-color-theme.json"
+      }
+    ]
+  }
+}
